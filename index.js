@@ -1,5 +1,9 @@
-// Code your solution in this file!
-const companyName = "Scuber"
-let mostProfitableNeighborhood = "Chelsea"
-let companyCeo="Susan Smith"
-let reLearnJs="4sep24"
+// // Code your solution in this file!
+// const companyName = "Scuber"
+// let mostProfitableNeighborhood = "Chelsea"
+// let companyCeo="Susan Smith"
+// let reLearnJs="4sep24"
+const companyName="Scuber"
+let mostProfitableNeighborhood="Chelsea"
+let companyCeo='Susan Smith'
+let reLearnJs='9Dec2024'
